@@ -1,5 +1,5 @@
 # Task Manager
-Trabalho da matéria Web, Sistema de Gerencimanto de tarefas, divido em duas partes. O Front utiliza html, css e javascript, o back Node JS e sqlite. Nele o usuário pode criar, atualizar, deletar e ler suas tarefas.
+Trabalho da matéria Desenvolvimento Web, Sistema de Gerencimanto de tarefas, divido em duas partes. O Front utiliza html, css e javascript, o back Node JS e sqlite. Nele o usuário pode criar, atualizar, deletar e ler suas tarefas.
 Cada tarefas possui um ID autoincrement e descrição.
 
 ## Tecbologias Utilizadas
